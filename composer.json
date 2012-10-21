@@ -1,0 +1,7 @@
+{
+    "name": "kraksoft/yuicompressor",
+    "description": "YUI Compressor fork",
+    "keywords": ["yui", "compressor"],
+    "homepage": "https://github.com/yui/yuicompressor",
+    "type": "library"
+}
